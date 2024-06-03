@@ -1,4 +1,4 @@
-# Text Processing Project
+# IR Project
 
 ## Overview
 This project focuses on text processing using various natural language processing (NLP) techniques. The primary objective is to clean and prepare text data for further analysis or machine learning tasks. The project leverages several NLP libraries and methods to process the text, including tokenization, stemming, lemmatization, and removal of stop words and punctuation.
